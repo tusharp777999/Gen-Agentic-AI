@@ -1,0 +1,1 @@
+print("This is python program for scripting without method, class etc.");

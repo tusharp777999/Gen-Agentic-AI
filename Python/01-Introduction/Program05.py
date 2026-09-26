@@ -1,0 +1,1 @@
+print(open("/Users/tushar/Projects/Gen-Agentic-AI/Python/01-Language-Fundamentals/demo.txt").read());
